@@ -1,11 +1,5 @@
 let valor = Number(gets());
-let nota100 = 0;
-let nota50 = 0;
-let nota20 = 0;
-let nota10 = 0;
-let nota5 = 0;
-let nota2 = 0;
-let nota1 = 0;
+let nota100 = nota50 = nota20 = nota10 = nota5 = nota2 = nota1 = 0;
 
 console.log(valor);
 
